@@ -1,0 +1,2 @@
+Dire Rat, 8, 1, 1d4-1
+2, user2
